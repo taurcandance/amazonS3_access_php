@@ -1,0 +1,1 @@
+(for windows) folder .aws should be in path "C:\Users\Your_userName\"
